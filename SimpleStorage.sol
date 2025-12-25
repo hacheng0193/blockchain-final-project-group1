@@ -12,3 +12,7 @@ contract SimpleStorage {
         return storedData;
     }
 }
+
+buyers=[1,2,3,4,5]
+buyers_add = [a,b,c,d,e]
+prize_pool += 100
