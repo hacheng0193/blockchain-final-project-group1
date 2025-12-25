@@ -1,0 +1,45 @@
+
+eth.getBalance(eth.accounts[0])
+geth attach
+personal.listAccounts()
+eth.accounts
+eth.getBalance(eth.accounts[0])
+web3.fromWei(eth.getBalance(eth.accounts[0]), "ether")
+eth.accounts[0]
+personal.listAccounts()
+eth.accounts
+miner.setEtherbase(eth.accounts[1])
+miner.start()
+web3.fromWei(eth.getBalance(eth.accounts[1]), "ether")
+eth.getBalance(eth.accounts[1])
+web3.fromWei(eth.getBalance(eth.accounts[1]), "ether")web3.fromWei(eth.getBalance(eth.accounts[1]), "ether")
+web3.fromWei(eth.getBalance(eth.accounts[1]), "ether")
+web3.fromWei(eth.getBalance(eth.accounts[0]), "ether")
+eth.accounts
+miner.stop()
+eth.accounts
+web3.fromWei(eth.getBalance(eth.accounts[0]), "ether")
+web3.fromWei(eth.getBalance(eth.accounts[1]), "ether")
+eth.accounts
+web3.fromWei(eth.getBalance(eth.accounts[1]), "ether")
+web3.fromWei(eth.getBalance(eth.accounts[0]), "ether")
+admin.peers
+eth.accounts
+admin.peers
+eth.accounts
+clear
+admin.peers
+miner.setEtherbase(eth.accounts[1])
+miner.start()
+web3.fromWei(eth.getBalance(eth.accounts[1]), "ether")
+eth.getBalance(eth.accounts[1])
+miner.stop()
+eth.accounts
+miner.stop()
+web3.fromWei(eth.getBalance(eth.accounts[0]), "ether")
+web3.fromWei(eth.getBalance(eth.accounts[1]), "ether")
+eth.accounts
+web3.fromWei(eth.getBalance(eth.accounts[0]), "ether")
+eth.getBalance(eth.accounts[1])
+eth.getBalance(eth.accounts[0])
+eth.getBalance(eth.accounts[1])

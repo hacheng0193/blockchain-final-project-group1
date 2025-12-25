@@ -1,0 +1,44 @@
+=============== Nov 14, 2025 (UTC) ===============
+05:42:52.722435 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+05:42:52.724215 db@open opening
+05:42:52.726276 version@stat F·[] S·0B[] Sc·[]
+05:42:52.726735 db@janitor F·2 G·0
+05:42:52.726769 db@open done T·2.519625ms
+05:42:52.736551 db@close closing
+05:42:52.736723 db@close done T·171.667µs
+=============== Nov 14, 2025 (UTC) ===============
+05:54:59.402321 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+05:54:59.402942 version@stat F·[] S·0B[] Sc·[]
+05:54:59.403033 db@open opening
+05:54:59.403275 journal@recovery F·1
+05:54:59.403881 journal@recovery recovering @1
+05:54:59.407852 memdb@flush created L0@2 N·16 S·1KiB "\x1b\xc72..\x11v\x84,v3":"\xd9?\xa9..\xfb\x14P,v4"
+05:54:59.416589 version@stat F·[1] S·1KiB[1KiB] Sc·[0.25]
+05:54:59.419262 db@janitor F·3 G·0
+05:54:59.419301 db@open done T·16.191083ms
+05:54:59.424610 db@close closing
+05:54:59.424812 db@close done T·201.833µs
+=============== Dec 5, 2025 (UTC) ===============
+06:17:00.680982 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+06:17:00.682057 version@stat F·[1] S·1KiB[1KiB] Sc·[0.25]
+06:17:00.682124 db@open opening
+06:17:00.682325 journal@recovery F·1
+06:17:00.682461 journal@recovery recovering @3
+06:17:00.683715 memdb@flush created L0@5 N·1 S·380B "eth..\xe3Q\xe7,v18":"eth..\xe3Q\xe7,v18"
+06:17:00.684183 version@stat F·[2] S·1KiB[1KiB] Sc·[0.50]
+06:17:00.686730 db@janitor F·4 G·0
+06:17:00.686782 db@open done T·4.627291ms
+06:17:00.693183 db@close closing
+06:17:00.693512 db@close done T·328.75µs
+=============== Dec 5, 2025 (UTC) ===============
+07:21:07.580155 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+07:21:07.581366 version@stat F·[2] S·1KiB[1KiB] Sc·[0.50]
+07:21:07.581446 db@open opening
+07:21:07.581666 journal@recovery F·1
+07:21:07.582038 journal@recovery recovering @6
+07:21:07.583035 memdb@flush created L0@8 N·1 S·380B "eth..\xe3Q\xe7,v20":"eth..\xe3Q\xe7,v20"
+07:21:07.583448 version@stat F·[3] S·1KiB[1KiB] Sc·[0.75]
+07:21:07.585970 db@janitor F·5 G·0
+07:21:07.586009 db@open done T·4.529958ms
+07:21:07.593506 db@close closing
+07:21:07.593889 db@close done T·382.292µs
