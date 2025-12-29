@@ -1,1 +1,5 @@
 solc --bin --abi --evm-version=london SimpleStorage.sol -o build
+
+
+personal.unlockAccount(eth.accounts[0], "nycu", 0)
+personal.unlockAccount(eth.accounts[1], "alex", 0)
