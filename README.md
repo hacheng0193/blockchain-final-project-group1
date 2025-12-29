@@ -3,8 +3,11 @@
 ## Project intro
 lottery.sol
     - solidity code for the smart contract
-
-## step
+lottery_deploy.ipynb
+    - deploy contract to chain
+lottery_frontend.ipynb
+    - the frontend to interact with the DAPP
+## Step
 1. put your code lottery.sol under the folder lottery
 2. execute the following cmd, and you will see the .bin, .abi under a folder named build
 ```
@@ -25,3 +28,7 @@ lottery
 ![alt text](/image/image.png)
 ![alt text](/image/image-2.png)
 ![alt text](/image/image-3.png)
+
+## Contribution
+111511198 鄭恆安(hacheng0193) - project idea, lottery.sol, lottery_deploy.ipynb, lottery_frontend.ipynb
+李博凱 - project idea, lottery.sol, lottery_frontend.ipynb
